@@ -37,11 +37,11 @@ License
 This project is for educational purposes and does not have a specific license.
 
 User Module
-<img width="568" height="300" alt="image" src="https://github.com/user-attachments/assets/67506fe2-d19a-41fc-b694-af513eecc57d" />
+<img width="568" height="300" alt="image" src="https://github.com/user-attachments/assets/67506fe2-d19a-41fc-b694-af513eecc57d" /> <br>
 Administator Module
-<img width="567" height="301" alt="image" src="https://github.com/user-attachments/assets/89ca4e88-051e-412f-a6dd-f84b42e4752a" />
+<img width="567" height="301" alt="image" src="https://github.com/user-attachments/assets/89ca4e88-051e-412f-a6dd-f84b42e4752a" /> <br>
 Ballina
-<img width="572" height="297" alt="image" src="https://github.com/user-attachments/assets/10e53871-2029-4380-972f-e0e2b0238382" />
+<img width="572" height="297" alt="image" src="https://github.com/user-attachments/assets/10e53871-2029-4380-972f-e0e2b0238382" /> <br>
 Perdoruesit
 <img width="567" height="299" alt="image" src="https://github.com/user-attachments/assets/013a70fc-d6f7-4670-891e-6d4d271c1ac2" />
 
