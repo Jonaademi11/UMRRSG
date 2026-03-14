@@ -1,10 +1,10 @@
-UMRRSG - Social Network Management Web Application
+## UMRRSG - Social Network Management Web Application
 
 UMRRSG is a web application designed to manage social networks by age groups. It provides two main modules:
 Administrator Module – for managing users, social networks, and age groups.
 User Module – for viewing social network data and submitting surveys.
 
-Features
+## Features
 Add, edit, and delete users
 Add, edit, and delete social networks
 Manage age groups
@@ -12,14 +12,13 @@ Public view for users with contact form
 Survey functionality with user responses
 Responsive design for desktop and mobile
 
-Technologies
-
+## Technologies
 Backend: PHP
 Frontend: HTML, CSS, JavaScript
 Database: MySQL
 Hosting: 000webhost
 
-Installation
+## Installation
 
 Clone the repository:
 git clone https://github.com/Jonaademi11/UMRRSG.git
@@ -28,18 +27,18 @@ Import the umrrsg.sql database file into MySQL.
 Configure the database connection in the PHP files (config.php).
 Open the project in your browser (e.g., http://localhost/UMRRSG/).
 
-Usage
+## Usage
 
 User Module: Browse social networks by age group, fill contact form, and submit survey.
 Admin Module: Log in with admin credentials to manage users, social networks, age groups, and module settings.
 
-Author
+## Author
 
 Jona Ademi  
 Computer Science Graduate  
 Master’s Student in Control Systems and Artificial Intelligence
 
-
+## 
 <img width="568" height="300" alt="image" src="https://github.com/user-attachments/assets/67506fe2-d19a-41fc-b694-af513eecc57d" />
 
 <img width="567" height="301" alt="image" src="https://github.com/user-attachments/assets/89ca4e88-051e-412f-a6dd-f84b42e4752a" />
