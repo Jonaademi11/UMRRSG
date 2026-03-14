@@ -33,13 +33,17 @@ Usage
 User Module: Browse social networks by age group, fill contact form, and submit survey.
 Admin Module: Log in with admin credentials to manage users, social networks, age groups, and module settings.
 
-License
-This project is for educational purposes and does not have a specific license.
+Author
+
+Jona Ademi  
+Computer Science Graduate  
+Master’s Student in Control Systems and Artificial Intelligence
 
 
 <img width="568" height="300" alt="image" src="https://github.com/user-attachments/assets/67506fe2-d19a-41fc-b694-af513eecc57d" />
 
 <img width="567" height="301" alt="image" src="https://github.com/user-attachments/assets/89ca4e88-051e-412f-a6dd-f84b42e4752a" />
+
 
 <img width="572" height="297" alt="image" src="https://github.com/user-attachments/assets/10e53871-2029-4380-972f-e0e2b0238382" />
 
